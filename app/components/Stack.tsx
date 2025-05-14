@@ -1,6 +1,6 @@
 "use client";
 import { FaReact, FaJs } from "react-icons/fa";
-import { SiNextdotjs, SiTailwindcss, SiTypescript, } from "react-icons/si";
+import { SiNextdotjs, SiTailwindcss, SiTypescript } from "react-icons/si";
 import React from "react";
 import { motion } from "framer-motion";
 
