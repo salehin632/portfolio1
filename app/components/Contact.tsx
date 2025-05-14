@@ -33,7 +33,7 @@ export default function Contact() {
                     >
                         <h2 className="text-5xl font-bold mt-15 text-white mb-4">Get in Touch</h2>
                         <p className="text-white/80 text-lg max-w-2xl mx-auto">
-                            Feel free to reach out if you're looking for a developer, have a question, or just want to connect.
+                            Feel free to reach out if you&apos;re looking for a developer, have a question, or just want to connect.
                         </p>
                     </motion.div>
 
@@ -102,7 +102,7 @@ export default function Contact() {
                                 <div>
                                     <h3 className="text-2xl font-bold text-white mb-4">Connect with me</h3>
                                     <div className="flex gap-4">
-                                        {socialLinks.map((link, index) => (
+                                        {socialLinks.map((link) => (
                                             <motion.a
                                                 key={link.name}
                                                 href={link.url}
