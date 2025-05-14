@@ -3,7 +3,7 @@
 import React from "react";
 import { BackgroundGradientAnimation } from "./ui/background-gradient-animation";
 import { motion } from "framer-motion";
-import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaLinkedin,  } from "react-icons/fa";
 
 export default function Contact() {
     const socialLinks = [
