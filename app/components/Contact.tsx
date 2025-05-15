@@ -94,9 +94,10 @@ export default function Contact() {
                             <div className="space-y-8">
                                 <div>
                                     <h3 className="text-2xl font-bold text-white mb-4">Contact Information</h3>
-                                    <p className="text-white/80">
-                                        Fresh CSE gradutate from NSU interested in Frontend Development. 
-                                    </p>
+                                    <p className="text-white/80 font-bold text-lg">
+                                        Phone - +8801721869852 <br />
+                                        Email - stahmid23@gmail.com
+                                    </p>    
                                 </div>
 
                                 <div>
