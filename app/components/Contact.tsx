@@ -10,12 +10,12 @@ export default function Contact() {
         {
             name: "GitHub",
             icon: <FaGithub className="w-6 h-6" />,
-            url: "https://github.com/yourusername",
+            url: "https://github.com/salehin632",
         },
         {
             name: "LinkedIn",
             icon: <FaLinkedin className="w-6 h-6" />,
-            url: "https://linkedin.com/in/yourusername",
+            url: "https://www.linkedin.com/in/salehin-tahmid-531172196/",
         },
        
     ];
